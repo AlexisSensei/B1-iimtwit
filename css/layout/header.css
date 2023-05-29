@@ -1,6 +1,8 @@
 .header {
     box-shadow: 8px 0 16px rgba(0, 0, 0, 0.16) ;
     background-color: var(--bg-primary);
+    position: sticky;
+    top: 0;
 }
 
 @media screen and (max-width: 991px) {

@@ -1,0 +1,17 @@
+.button {
+    color: var(--color-white);
+    padding: 1em 1.5em;
+    display: inline-block;
+}
+
+.button--remove {
+    display: inline-block;
+    color: var(--color-white);
+    padding: 1em 1.5em;
+    background: rgb(96, 2, 2);
+    margin-top: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+}

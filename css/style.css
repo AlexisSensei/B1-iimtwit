@@ -3,5 +3,8 @@
 @import url('base/reset.css');
 @import url('layout/main-layout.css');
 @import url('layout/header.css');
+@import url('layout/feed.css');
 @import url('layout/aside.css');
 @import url('components/button-tag.css');
+@import url('components/buttons.css');
+@import url('components/twit.css');
