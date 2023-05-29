@@ -1,0 +1,13 @@
+.main-layout {
+    display: grid;
+    grid-template-columns: 350px 4fr 2fr;
+    min-height: 100vh;
+    background-color: var(--bg-secondary);
+}
+
+@media screen and (max-width: 991px) {
+    .main-layout {
+        grid-template-columns: 1fr;
+
+    }
+}

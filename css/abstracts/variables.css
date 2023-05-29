@@ -1,0 +1,12 @@
+:root {
+    --bg-primary: #ffffff;
+    --bg-secondary: hsl(31, 90%, 97%);
+    --bg-grey: hsl(0, 0%, 92%);
+    --color-primary: #121212;
+    --color-secondary: #f07d00;
+
+    --font: 'Inter', sans-serif;
+    --font-size: 16px;
+
+    --tag-color: #f07d00;
+}

@@ -1,0 +1,17 @@
+.tag-button {
+    max-width: 200px;
+    font-size: 1.2rem;
+    font-family: var(--font);
+    padding: 0.5em 1em;
+    transition: all 0.3s;
+    background-color: var(--bg-grey);
+    color: var(--color-primary);
+    border: none;
+    text-align: left;
+    border-radius: 4px;
+}
+
+.tag-button:hover {
+    cursor: pointer;
+    background-color: var(--tag-color);
+}
